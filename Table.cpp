@@ -1,7 +1,7 @@
 #include <algorithm>
 #include "Table.h"
 
-const int size = 10;
+const int size = 3;
 T m[size];
 
 // Ввод таблицы
